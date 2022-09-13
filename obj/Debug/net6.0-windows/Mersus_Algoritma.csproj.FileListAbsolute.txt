@@ -1,0 +1,17 @@
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\bin\Debug\net6.0-windows\Mersus_Algoritma.exe
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\bin\Debug\net6.0-windows\Mersus_Algoritma.deps.json
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\bin\Debug\net6.0-windows\Mersus_Algoritma.runtimeconfig.json
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\bin\Debug\net6.0-windows\Mersus_Algoritma.dll
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\bin\Debug\net6.0-windows\Mersus_Algoritma.pdb
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.csproj.AssemblyReference.cache
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.Form1.resources
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.csproj.GenerateResource.cache
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.AssemblyInfoInputs.cache
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.AssemblyInfo.cs
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.dll
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\refint\Mersus_Algoritma.dll
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.pdb
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\Mersus_Algoritma.genruntimeconfig.cache
+C:\Users\ELİS\Source\Repos\Mersus_Algoritma\obj\Debug\net6.0-windows\ref\Mersus_Algoritma.dll
